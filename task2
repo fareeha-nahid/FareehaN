@@ -5,8 +5,8 @@
 	</head>
 <body>
 	<h3>List of books </h3>
-	<ul> 
-		<li> Biginners Java Programming </li>
+	<ul>
+		<li> Basic Java Programming </li>
 		<li> Operating Systems </li>
 		<li> Software Engineering </li>
 	</ul>
