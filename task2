@@ -6,9 +6,9 @@
 <body>
 	<h3>List of books </h3>
 	<ul> 
-		<li> Biginners Java Programming </li>
+		<li> Basic Java Programming </li>
 		<li> Operating Systems </li>
-		<li> Software Engineering </li>
+		<li> Advanced Software Engineering </li>
 	</ul>
 </body>
 <html>
