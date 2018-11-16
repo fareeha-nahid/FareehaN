@@ -1,14 +1,15 @@
 <!Doctype html>
 <html>
 	<head>
-		<title> Sample Task File </title>
-	</head>
+		<title> Sample HTML File </title>
+	</head>	
 <body>
-	<h3>List of books </h3>
-	<ul>
+	<h3> List of books </h3>
+	<ul> 
 		<li> Basic Java Programming </li>
 		<li> Operating Systems </li>
 		<li> Software Engineering </li>
 	</ul>
 </body>
-<html>
+</html>
+                                                                                                                                                                                                                                                               
