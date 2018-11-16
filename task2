@@ -7,8 +7,8 @@
 	<h3> List of books </h3>
 	<ul> 
 		<li> Basic Java Programming </li>
-                <li> Operating Systems 2 </li>
-		<li> Advanced Software Engineering </li>
+                <li> The Core of Operating Systems </li>
+		<li> Software Engineering </li>
 	</ul>
 </body>
 </html>
